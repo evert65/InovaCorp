@@ -1,2 +1,2 @@
 # InovaCorp
-Quero uma ia de perguntar  e respostas brasileiras
+Quero uma ia de perguntar  e respostas inteligência artificial 
